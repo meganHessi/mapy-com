@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Lekarna U Andela",
+    "address": "Jungmannova 743/18, Prague",
+    "phone": "+420224948237",
+    "email": null,
+    "website": "https://www.lekarna-uandela.cz",
+    "openingHours": "Mon–Fri 08:00–18:00",
+    "coordinates": {
+      "lat": 50.0812,
+      "lng": 14.4198
+    },
+    "category": "Pharmacy",
+    "url": "https://mapy.com/prague/pharmacy/lekarna-u-andela",
+    "source": "mapy.com",
+    "rawJob": null
+  }
+]
