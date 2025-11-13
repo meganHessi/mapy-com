@@ -1,0 +1,20 @@
+[
+  {
+    "query": "pharmacy",
+    "city": "Prague",
+    "urls": [],
+    "fastMode": false,
+    "exactMatch": false,
+    "maxResults": 20
+  },
+  {
+    "query": "restaurant",
+    "city": "Prague",
+    "urls": [
+      "https://mapy.com/prague/pharmacy/lekarna-u-andela"
+    ],
+    "fastMode": true,
+    "exactMatch": false,
+    "maxResults": 10
+  }
+]
