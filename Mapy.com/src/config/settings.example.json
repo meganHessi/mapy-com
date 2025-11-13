@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://mapy.com",
+  "timeoutSeconds": 15,
+  "userAgent": "MapyScraper/1.0 (+https://bitbash.dev)",
+  "maxRetries": 3,
+  "sleepBetweenRequestsMs": 500
+}
